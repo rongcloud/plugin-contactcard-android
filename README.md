@@ -8,7 +8,7 @@ Android Studio 导入 contactcard moudle
 
 在 settings.gradle 中添加 'contactcard' 模块，如：
 
-include ':recognizer'
+include ': contactcard'
 
 在应用的 build.gradle 中添加依赖, 如：
 
