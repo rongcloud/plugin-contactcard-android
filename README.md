@@ -1,19 +1,3 @@
-# plugin-contactcard-android
-contactcard 名片功能模块
+该仓库已被废弃，已迁移至新仓库。
 
-
-Android Studio 导入 contactcard moudle 
-
-配置：
-
-在 settings.gradle 中添加 'contactcard' 模块，如：
-
-``` java
-include ': contactcard'
-```
-
-在应用的 build.gradle 中添加依赖, 如：
-
-``` java
-api project(':contactcard')
-```
+[融云 IM UI SDK 集合](https://github.com/rongcloud/android-ui-sdk-set)
